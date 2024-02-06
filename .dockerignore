@@ -1,0 +1,29 @@
+**/*.pyc 
+**/*.pyo 
+**/*.mo 
+.cache 
+.project 
+.idea 
+.pydevproject 
+.idea/workspace.xml 
+.DS_Store 
+.vscode/ 
+.git/ 
+**/__pycache__/ 
+docs/ 
+# Dockerfile 
+README.md 
+settings-dev.ini 
+.dccache 
+.gitignore 
+media/collectstatic/ 
+media/upload/ 
+log/ 
+CHANGELOG.md 
+CONTRIBUTING.md 
+CONTRIBUTORS.md 
+LICENSE 
+# poetry.lock 
+# pyproject.toml 
+fron-source/ 
+.venv/
