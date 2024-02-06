@@ -1,5 +1,5 @@
-from books.api.serializers.books import BookSerializer, BookDetailsSerializer
-from books.models.books import Book
+from books.api.serializers import BookSerializer, BookDetailsSerializer
+from books.models import Book
 from rest_framework.generics import ListAPIView, RetrieveAPIView
 # from django.views.generic import ListView
 
